@@ -30,7 +30,7 @@
 > Java, Spring Boot, Kafka, Docker  
 - Designed LinkedIn-like backend with microservices & real-time notifications.
 
-### [🚗 Cab Booking Application] (https://github.com/thesiddharth24/LinkedIn)
+### 🚗 [Cab Booking Application](https://github.com/thesiddharth24/LinkedIn)
 > Spring Boot, Neo4J, PostgreSQL  
 - Built Uber-like ride booking backend with strategy patterns and wallet system.
 
