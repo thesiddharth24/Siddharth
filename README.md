@@ -9,6 +9,7 @@
 
 ### 🙋‍♂️ About Me  
 I'm a passionate backend developer currently building AI-powered solutions such as chatbots, fraud detection systems, intelligent copy checkers, and more. I enjoy integrating cutting-edge LLMs (like GPT-4o) with scalable Java/.NET backends and am always looking for ways to blend AI with real-world business needs.
+
 ---
 
 🎓 **Education**
