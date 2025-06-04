@@ -30,7 +30,7 @@
 > Java, Spring Boot, Kafka, Docker  
 - Designed LinkedIn-like backend with microservices & real-time notifications.
 
-### 🚗 Cab Booking Application
+### [🚗 Cab Booking Application] (https://github.com/thesiddharth24/LinkedIn)
 > Spring Boot, Neo4J, PostgreSQL  
 - Built Uber-like ride booking backend with strategy patterns and wallet system.
 
@@ -38,7 +38,6 @@
 
 🏆 **Achievements**
 - Solved **400+ DSA problems** across platforms (LeetCode, Coding Ninjas)
-- Secured **3107 rank in UPSEE** among 100,000+ students
 
 ---
 
