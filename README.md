@@ -7,6 +7,10 @@
 
 ---
 
+### 🙋‍♂️ About Me  
+I'm a passionate backend developer currently building AI-powered solutions such as chatbots, fraud detection systems, intelligent copy checkers, and more. I enjoy integrating cutting-edge LLMs (like GPT-4o) with scalable Java/.NET backends and am always looking for ways to blend AI with real-world business needs.
+---
+
 🎓 **Education**
 - **B.Tech in Information Technology** – JSS Academy of Technical Education, Noida (2020–2024)
 - GPA: 8.05/10
@@ -15,7 +19,7 @@
 
 💻 **Technical Stack**
 - **Languages:** Java, C++, JavaScript, SQL, HTML/CSS
-- **Frameworks:** Spring Boot, React, Node.js, Express
+- **Frameworks:** Spring Boot, React, Node.js, Express , .NETCore
 - **Tools:** Docker, Kafka, Redis, Postman, Git, Maven
 - **Cloud:** Azure, AWS, Heroku
 
@@ -26,11 +30,11 @@
 > Spring Boot, Azure OpenAI, Azure Blob Storage  
 - Analyzed student copies using LLMs & generated structured reports.
 
-### 👥 Social Networking Backend
+### 👥 [Social Networking Backend](https://github.com/thesiddharth24/LinkedIn)
 > Java, Spring Boot, Kafka, Docker  
 - Designed LinkedIn-like backend with microservices & real-time notifications.
 
-### 🚗 [Cab Booking Application](https://github.com/thesiddharth24/LinkedIn)
+### 🚗 [Cab Booking Application](https://github.com/thesiddharth24/UberApp)
 > Spring Boot, Neo4J, PostgreSQL  
 - Built Uber-like ride booking backend with strategy patterns and wallet system.
 
